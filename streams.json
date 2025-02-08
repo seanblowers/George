@@ -1,0 +1,10 @@
+{
+    "lastWeek": {
+        "traditional": "last_traditional_stream.html",
+        "modern": "last_modern_stream.html"
+    },
+    "thisWeek": {
+        "traditional": "current_traditional_stream.html",
+        "modern": "current_modern_stream.html"
+    }
+}

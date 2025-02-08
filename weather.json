@@ -1,0 +1,21 @@
+{
+    "current": {
+        "temp": 22,
+        "condition": "Sunny",
+        "icon": "☀️"
+    },
+    "forecast": [
+        {
+            "day": "Tomorrow",
+            "temp": 20,
+            "condition": "Cloudy",
+            "icon": "☁️"
+        },
+        {
+            "day": "Day 2",
+            "temp": 19,
+            "condition": "Rain",
+            "icon": "🌧️"
+        }
+    ]
+}
